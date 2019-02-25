@@ -1,0 +1,23 @@
+body {
+  font-size: 18px;
+  color: #333333;
+  font-family: 'Arial', sans-serif;
+  height: 720px;
+}
+.row {
+  margin-top: 140px;
+  margin-bottom: 120px;
+}
+.row h1 {
+  font-size: 36px;
+  text-align: center;
+}
+.row img {
+  display: block;
+  height: 136px;
+  margin-bottom: 20px;
+}
+.row span {
+  display: block;
+  text-align: center;
+}

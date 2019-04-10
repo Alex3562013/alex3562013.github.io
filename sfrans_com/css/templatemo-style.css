@@ -232,18 +232,20 @@ p {
 
 @media screen and (max-width: 1140px) { 
     .cb-slideshow li div h3 { font-size: 140px }
+    #footer{display: none;}
 }
 @media screen and (max-width: 600px) { 
     .cb-slideshow li div h3 { font-size: 80px }
 	.tm-content {
 		margin-top: 80px;
 	}
+     #footer{display: none;}
 }
 
 @media screen and (max-width: 576px) { 
     .cb-slideshow li div h3 { font-size: 80px }
-	
 	.tm-btn-subscribe {
 		margin-top: 20px;
 	}
+     #footer{display: none;}
 }

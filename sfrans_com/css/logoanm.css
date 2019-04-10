@@ -1,0 +1,25 @@
+
+.footer-link{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content:space-around;
+	align-items:center;
+}
+.logo-anm a{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: .8em;
+	border:solid #fff 1px;
+	padding: 5px;
+	border-radius: 15px;
+	cursor: pointer;
+	text-decoration: none;
+}
+.logo-anm a:hover{
+	color: white;
+	background: #006699;
+}
